@@ -2,6 +2,7 @@ import {useState, useEffect} from 'react';
 import {Fade,Slide} from 'react-awesome-reveal';
 import MyButton from '../utils/MyButton';
 
+//discount
 const Discount = () =>{
 
     const end = 30;
