@@ -4,7 +4,7 @@ import { AppBar } from '@mui/material';
 import MenuIcon from '@mui/icons-material/Menu';
 import SideDrawer from "./SideDrawer.tsx";
 
-
+//header
 export const Header = () => {
   const [drawerOpen, setDrawerOpen] = useState(false);
   const [headerShow, setHeaderShow] = useState(false);
