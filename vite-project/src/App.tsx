@@ -1,4 +1,4 @@
-
+import './resources/styles.css'
 import {Element} from 'react-scroll'
 
 

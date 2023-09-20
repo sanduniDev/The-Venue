@@ -1,4 +1,4 @@
-import Carousel from "./Carousel";
+import Carousel from "./Carrousel";
 import TimeUntil from "./timeUntil";
 
 const Featured =()=>{
