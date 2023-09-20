@@ -1,6 +1,7 @@
 import Carousel from "./Carrousel";
 import TimeUntil from "./timeUntil";
 
+//countdown
 const Featured =()=>{
     return (
         <div className="featured_container">
