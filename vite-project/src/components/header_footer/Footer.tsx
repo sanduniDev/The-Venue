@@ -1,5 +1,6 @@
 import {Fade} from 'react-awesome-reveal'
 
+//footer
 const Footer = () => {
     return (
         <footer className="bck_red">
